@@ -12,7 +12,7 @@
 #text(15pt)[= Khai Nguyen]
 
 #link("mailto:khai.nguyen@outlook.com")[khai.nguyen\@outlook.com] #text(gray)[$space.hair$|$space.hair$]
-#link("https://khaister.github.io")[khaister.github.io] #text(gray)[$space.hair$|$space.hair$]
+#link("https://github.com/khaister")[github.com/khaister] #text(gray)[$space.hair$|$space.hair$]
 #link("https://linkedin.com/in/khainguyen")[linkedin.com/in/khainguyen] #text(gray)[$space.hair$|$space.hair$]
 714.266.4026
 
