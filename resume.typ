@@ -29,10 +29,9 @@
   
   #text(25pt, weight: "bold", tracking: 1em/23)[= Khai Nguyen]
 
-  #link("mailto:khai.nguyen@outlook.com")[khai.nguyen\@outlook.com] #text(gray)[$space.hair$|$space.hair$]
-  #link("https://github.com/khaister")[github.com/khaister] #text(gray)[$space.hair$|$space.hair$]
-  #link("https://linkedin.com/in/khainguyen")[linkedin.com/in/khainguyen] #text(gray)[$space.hair$|$space.hair$]
-  #link("tel:+17142664026")[714.266.4026]
+  #link("mailto:khai.nguyen@outlook.com")[khai.nguyen\@outlook.com]
+  #text(gray)[$space.hair$|$space.hair$]
+  #link("https://github.com/khaister")[github.com/khaister]
 ]
 
 A Senior Software Engineer with 8+ years in object-oriented software engineering, applied to the creation of complex software systems and tackling technical challenges; strengths in working collaboratively with technical and business teams to produce outstanding software products from design to launch.
