@@ -1,4 +1,4 @@
-#set text(font: "Inter", fill: rgb("#222222"), hyphenate: true)
+#set text(font: "", fill: rgb("#222222"), hyphenate: true)
 #show heading: it => {
   set text(font: "", weight: "light", tracking: 1em/23)
   upper(it)
@@ -6,7 +6,8 @@
 
 #show link: underline
 #set page(
- margin: (x: 1.1cm, y: 1.3cm),
+  margin: (x: 1.1cm, y: 1.3cm),
+  fill: gradient.linear(rgb("dedede"), white, white, white, angle: 120deg)
 )
 #set par(justify: true)
 
@@ -29,7 +30,7 @@
   
   #text(25pt, weight: "bold", tracking: 1em/23)[= Khai Nguyen]
 
-  #link("mailto:khai.nguyen@outlook.com")[khai.nguyen\@outlook.com]
+  #link("mailto:khaiatwork@gmail.com")[khaiatwork\@gmail.com]
   #text(gray)[$space.hair$|$space.hair$]
   #link("https://github.com/khaister")[github.com/khaister]
 ]
