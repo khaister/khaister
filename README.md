@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a remote-only software developer based in the sunny Southern California.
+I'm a software developer based in the sunny Southern California.
 
-- 🔭 I’m currently working on building the backend service for managing prescription and related data for blinkhealth.com
-- 🌱 I’m currently learning for AWS Cert
+- 🔭 I’m currently working on building the backend service for managing prescription and related data for [https://blinkhealth.com](blinkhealth.com)
+<!-- - 🌱 I’m currently learning for AWS Cert -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -13,11 +13,4 @@ I'm a remote-only software developer based in the sunny Southern California.
 
 ---
 
-Check out my [resume.pdf](https://github.com/khaister/khaister/raw/main/resume.pdf)
-
-> [!NOTE]
-> The resume was authored in [Typst](https://typst.app/) and compiled using the [`typst` CLI](https://github.com/typst/typst#installationt), with the excellent [typst-resume-sans](https://github.com/mizlan/typst-resume-sans) template
-> 
-> ```sh
-> typst compile resume.typ
-> ```
+Check out my [webiste](https://khaister.github.io) and take a look at my [resume](https://github.com/khaister/khaister.github.io/raw/main/resume/khai-nguyen.pdf)
